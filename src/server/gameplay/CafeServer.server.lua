@@ -1,6 +1,5 @@
 
--- Script principal del servidor
-
+-- Script principal 
 
 local Players = game:GetService("Players")
 
